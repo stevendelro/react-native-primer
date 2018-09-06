@@ -3,6 +3,7 @@ import { View } from 'react-native';
 import axios from 'axios';
 import uuid from 'uuid';
 import AlbumDetail from './AlbumDetail';
+
 class AlbumList extends Component {
   state = { albums: [] };
 
