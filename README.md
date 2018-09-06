@@ -21,11 +21,11 @@ The "completed" app displays Album information and some images for a particular 
 * Because styling is time consuming, this creates the incentive to make/utilize as many highly resuable components possible.
 * Flexbox is primarily used to position things and all the styling is pixel-based out of the box.
 * Images need defined height's and width's before it can be seen on screen.
-* I learned the power of `props. children` and how it drives a ton of resuability.
+* I learned the power of `props.children` and how it drives a ton of resuability.
 * Styling between iOS and Android apps have some significant differences as each platform has it's own React Native code.
-* I would assume that being able to code for both platforms with the single language helps to ease the learning curve of either, if needed.
-* Remote debugging is possible with Chrome DevTools, which is how we debugged this particular app.
-* I'm pretty interested in developing things with the app directly on my phone, so I'm looking out for something like the in the next project or so.
+* Being able to code for both platforms with a single language helps to ease the learning curve of either, while also reinforcing web-based React knowledge. 
+* We debugged this particular app remotely with the Chrome dev tools, which was pretty cool.
+* I'm pretty interested in developing/testing things with the app directly on my phone, so I'm looking out for something like the in the next project or so.
 
 ## Final thoughts: 
 
