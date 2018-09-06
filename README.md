@@ -5,7 +5,7 @@ This is the first project from **Stephen Grider's The Complete React Native and 
 
 * Upon mounting, it performs a GET request to a proprietary API that Grider supplied.
 * The JSON data is mapped over to display a list of cards
-* Each card is splut up into three sections:
+* Each card is split up into three sections:
   1. A header with an Avatar picture, Album title, and Artist Name
   2. A large, full-width Album Art section,
   3. A touchable button that redirects the user's default browser to that album's Amazon page.
@@ -27,7 +27,7 @@ This is the first project from **Stephen Grider's The Complete React Native and 
 
 This was a great primer for understanding the bare basics. 
 
-This was clearly made for those who are just getting into the React language, so some of his diagrams and examples are pretty basic, but they're all relevent and convey the knowledge well. Coming from a web-based React background, it's nice to be able to develop something that's made to be used on a phone.
+Clearly made for those who are just getting into the React language, some of his diagrams and examples are pretty basic, but they're all relevent and convey the knowledge well. Coming from a web-based React background, it's nice to be able to develop something that's made to be used on a phone.
 
 I wish Grider would challenge his viewers with detailed examples followed by coding challenges. I find that style more active for the viewer, but you could easily pause the video and try some stuff out before he explains exactly how to do it. The next project is based around authentication with Firebase, so I'm looking forward to more complexity. 
 
