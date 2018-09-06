@@ -1,5 +1,6 @@
-# react-native-primer
-This is the first project from **Stephen Grider's The Complete React Native and Redux Course**, and my first exposure to React Native. 
+# Project 1: Albums: A React Native Primer.
+
+My first React Native project, built while following along: [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course) by Stephen Grider. 
 
 ## What does it do?
 
