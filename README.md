@@ -17,7 +17,7 @@ The "completed" app displays Album information and some images for a particular 
 ## What did building this app teach me?
 
 * React Native doesn't use Web based HTML tags, so understanding the built-in React Native Components and reading the official documentation is key.
-* All of the styling for the app is done at the component level, so no CSS files found tucked away anywhere.
+* All of the styling for the app is done at the component level.
 * Because styling is time consuming, this creates the incentive to make/utilize as many highly resuable components possible.
 * Flexbox is primarily used to position things and all the styling is pixel-based out of the box.
 * Images need defined height's and width's before it can be seen on screen.
